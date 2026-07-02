@@ -1,11 +1,11 @@
 
-## 📋 Descrição do Projeto
+## Descrição do Projeto
 
 Sistema de gerenciamento de alertas que simula uma central de monitoramento de sensores. A central recebe alertas de diferentes tipos e severidades, armazena-os e exibe-os de forma polimórfica — cada alerta sabe como se formatar e se identificar.
 
 ---
 
-## 📐 Diagrama de Classes (Hierarquia de Herança)
+## Diagrama de Classes 
 
 ```
         ┌──────────────────┐
